@@ -10,5 +10,5 @@ def test_sednind_mail_1():
 
 
 def test_sednind_mail_2():
-    print("Письмо отправлено")
+    print("Письмо отправлено_")
 
